@@ -24,6 +24,12 @@ Envie um Pull Request ou crie uma Issue e mãos a obra!
 * Menos Spam!!!
 * GitHub é de graça e muito maneiro!!
 
+## Próximos Eventos?
+
+Os próximos eventos seram divulgados como Pull Request. 
+Conhece algum lugar bacana para juntar a galera? Abra uma Issue com as informções que tem do lugar!
+Sinta-se a vontade de abrir novas Issues e vamos nessa!
+
 ## Organizers
 
 * Marcos Bérgamo ([GitHub](https://github.com/thebergamo), [Twitter](https://twitter.com/thebergamo))
