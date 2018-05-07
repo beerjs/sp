@@ -9,7 +9,7 @@
   <a href="https://github.com/beerjs/sp/fork"><img src="https://img.shields.io/github/watchers/beerjs/sp.svg?style=social&label=watch" alt="Chat"></a>
   <a href="https://twitter.com/beerjs_sp"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Chat"></a>
   <a href="https://beerjs-sp.slack.com/"><img src="https://img.shields.io/badge/chat-on%20slack-42bc99.svg" alt="Chat"></a>
-  <a href="https://www.meetup.com/pt-BR/meetup-group-JCcOEVtX/"><img src="https://www.viriciti.com/wp-content/uploads/2016/11/meetup-resized.png" alt="Event" width="60"></a>
+  <a href="https://www.meetup.com/pt-BR/beerjs-sp/"><img src="https://www.viriciti.com/wp-content/uploads/2016/11/meetup-resized.png" alt="Event" width="60"></a>
 </p>
 <h1 align="center">BeerJS São Paulo</h1>
 <p align="center">
@@ -23,7 +23,7 @@ O BeerJS SP é um fork da organização internacinal BeerJS, localizado em São 
 
 ## Junte-se a nós!
 
-Entre no grupo do [meetup](https://www.meetup.com/pt-BR/meetup-group-JCcOEVtX/) ou Click no botão de [Watch](https://github.com/beerjs/sp/subscription) no topo da página para estar dentro das mudaças por aqui. 
+Entre no grupo do [meetup](https://www.meetup.com/pt-BR/beerjs-sp/) ou Click no botão de [Watch](https://github.com/beerjs/sp/subscription) no topo da página para estar dentro das mudaças por aqui. 
 
 ## Próximos Eventos?
 
