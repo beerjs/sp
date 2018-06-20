@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer">
+  <a href="https://beerjs.github.io/sp/" target="_blank" rel="noopener noreferrer">
     <img width="100" src="https://raw.githubusercontent.com/codermarcos/beerjs-sp/assets/logo-beerjs-sp-with-beer.png" alt="Vue logo">
   </a>
 
